@@ -1,0 +1,6 @@
+echo "# epicmanny" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Privatemanny1/epicmanny.git
+git push -u origin master
